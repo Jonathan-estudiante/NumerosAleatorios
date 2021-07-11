@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">JUEGO</string>
+
+    <string name="lifecycle_method_list">Lifecycle Method List</string>
+
+    <string name="activity_label">ADIVINA EL NÚMERO</string>
+
+    <string name="tw_ingresar_numero">Ingrese un número</string>
+    <string name="tw_colocar_numero">Coloque su número</string>
+    <string name="tw_incorrecto">INCORRECTO…</string>
+    <string name="tw_adivina">Adivina el número que colocó tu compañero.</string>
+
+    <string name="btn_play_solo">JUGAR</string>
+    <string name="btn_multi_player">MULTIJUGADOR</string>
+    <string name="btn_comenzar">COMENZAR</string>
+    <string name="btn_comprobar">COMPROBAR</string>
+    <string name="btn_otra_vez">REINICIAR</string>
+    <string name="btn_salir">MENÚ</string>
+    <string name="btn_volver_jugar">VOLVER A JUGAR</string>
+
+
+
+</resources>
